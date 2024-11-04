@@ -6,9 +6,5 @@
 В качестве основы для исследования использую данные, собранные из 16 открытых на период 2021-2022 гг репозиториев (Apache, Jira, MongoDB и проч.) и включающие 1822 проекта, ~2.7 млн задач с учетом 32 млн изменений, 9 млн комментариев, 1 млн связей.
 
 ## Датасет
-Описание датасета: AnAlternative Issue Tracking Dataset of Public Jira Repositories
-
-**Схема данных:**
-
-
-Датасет скачан с открытой платформы [Zenodo]([url](https://zenodo.org/records/7182101)) и загружен в локальную MongoDB.
+Описание датасета: [An Alternative Issue Tracking Dataset of Public Jira Repositories](https://arxiv.org/pdf/2201.08368)
+Датасет скачан с открытой платформы [Zenodo](https://zenodo.org/records/7182101) и загружен в локальную MongoDB.
