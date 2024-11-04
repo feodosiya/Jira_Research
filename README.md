@@ -7,6 +7,8 @@
 
 ## Датасет
 Описание датасета: AnAlternative Issue Tracking Dataset of Public Jira Repositories
+
 **Схема данных:**
+
 
 Датасет скачан с открытой платформы [Zenodo]([url](https://zenodo.org/records/7182101)) и загружен в локальную MongoDB.
